@@ -1,0 +1,10 @@
+C:\Users\الشموخ\AppData\Local\Temporary Projects\ConnString\bin\Debug\ConnString.exe.config
+F:\Desgin\C#\ConnString\ConnString\bin\Debug\ConnString.exe.config
+F:\Desgin\C#\ConnString\ConnString\bin\Debug\ConnString.exe
+F:\Desgin\C#\ConnString\ConnString\bin\Debug\ConnString.pdb
+F:\Desgin\C#\ConnString\ConnString\obj\Debug\ConnString.csprojResolveAssemblyReference.cache
+F:\Desgin\C#\ConnString\ConnString\obj\Debug\ConnString.Form1.resources
+F:\Desgin\C#\ConnString\ConnString\obj\Debug\ConnString.Properties.Resources.resources
+F:\Desgin\C#\ConnString\ConnString\obj\Debug\ConnString.csproj.GenerateResource.Cache
+F:\Desgin\C#\ConnString\ConnString\obj\Debug\ConnString.exe
+F:\Desgin\C#\ConnString\ConnString\obj\Debug\ConnString.pdb

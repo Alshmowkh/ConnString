@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnString", "ConnString\ConnString.csproj", "{DAB7662E-4184-4F4D-9ADF-0F867C3BFC89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB7662E-4184-4F4D-9ADF-0F867C3BFC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB7662E-4184-4F4D-9ADF-0F867C3BFC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB7662E-4184-4F4D-9ADF-0F867C3BFC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB7662E-4184-4F4D-9ADF-0F867C3BFC89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
